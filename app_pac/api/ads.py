@@ -1,3 +1,4 @@
+from app_pac import app_var
 from app_pac import db
 from app_pac.api import bp
 from app_pac.models import Advert
